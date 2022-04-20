@@ -1,0 +1,73 @@
+"docid","ID","CONT","weight"
+1,1,"africa",20
+1,2,"asia",18
+1,3,"antarctica",3
+1,4,"australia",1
+1,5,"europe",18
+1,6,"america",18
+1,7,"north america",NA
+1,8,"south america",NA
+2,9,"oceania",3
+2,1,"africa",22
+2,2,"asia",16
+2,3,"antarctica",1
+2,4,"australia",12
+2,5,"europe",14
+2,6,"america",56
+2,7,"north america",NA
+3,8,"south america",NA
+3,9,"oceania",NA
+3,1,"africa",25
+3,2,"asia",23
+3,3,"antarctica",NA
+3,4,"australia",1
+3,5,"europe",18
+3,6,"america",24
+4,7,"north america",NA
+4,8,"south america",NA
+4,9,"oceania",9
+4,1,"africa",22
+4,2,"asia",22
+4,3,"antarctica",NA
+4,4,"australia",NA
+4,5,"europe",21
+5,6,"america",16
+5,7,"north america",NA
+5,8,"south america",NA
+5,9,"oceania",7
+5,1,"africa",27
+5,2,"asia",31
+5,3,"antarctica",NA
+5,4,"australia",2
+7,5,"europe",17
+7,6,"america",26
+7,7,"north america",NA
+7,8,"south america",NA
+7,9,"oceania",5
+7,1,"africa",NA
+7,2,"asia",NA
+7,3,"antarctica",NA
+8,4,"australia",NA
+8,5,"europe",NA
+8,6,"america",1
+8,7,"north america",NA
+8,8,"south america",NA
+8,9,"oceania",NA
+8,1,"africa",114
+8,2,"asia",136
+9,3,"antarctica",NA
+9,4,"australia",47
+9,5,"europe",48
+9,6,"america",93
+9,7,"north america",NA
+9,8,"south america",NA
+9,9,"oceania",30
+9,1,"africa",1113
+10,2,"asia",1146
+10,3,"antarctica",362
+10,4,"australia",783
+10,5,"europe",978
+10,6,"america",1968
+10,7,"north america",NA
+10,8,"south america",NA
+10,9,"oceania",2
