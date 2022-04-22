@@ -27,5 +27,3 @@ Tigergraph Studio was used to design the schema, import and associate the data t
 Python notebook ./src/query_exp5_v2.ipynb was used to explore the graph, and develop and install queries  
 
 (export_exp1* and export_exp3* are visual examples of alternate schema designs)  
-
-Step-by-step instructions to be provided shortly here
