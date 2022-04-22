@@ -1,7 +1,11 @@
 # G4ALL_crosstalk
 
-## Step1 
-### Step2  
-#### Step3
-#### Step4
+### Data Collection
+
+### Preprocessing  
+
+### Feature Extraction
+
+### Tigergraph Studio  
+
 Step-by-step instructions to be provided shortly here
