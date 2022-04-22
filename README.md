@@ -22,8 +22,10 @@ This folder in the repo contains source pdf files.
 
 ### Tigergraph Studio  
 ./tgstudio/export_exp5_908070754.tar - use this from a demonstratable working graph based on the above with some installed queries.  
-(Tigergraph Studio was used to design the schema, import and associate the data to the vertices and edges)   
-(Python notebook ./src/query_exp5_v2.ipynb was used to explore the graph, and develop and install queries)  
+
+Tigergraph Studio was used to design the schema, import and associate the data to the vertices and edges     
+Python notebook ./src/query_exp5_v2.ipynb was used to explore the graph, and develop and install queries  
+
 (export_exp1* and export_exp3* are visual examples of alternate schema designs)  
 
 Step-by-step instructions to be provided shortly here
